@@ -1,1 +1,8 @@
-:root{--cor-de-fundo:#000000;}
+.materiais{
+    background-color: blanchedalmond;
+}
+.lista__material {
+   background-color:blanchedalmond;
+   color: black; 
+    
+}
