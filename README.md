@@ -1,2 +1,0 @@
-# Whalkanda
-Biotec2 
